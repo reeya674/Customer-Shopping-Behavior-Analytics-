@@ -1,4 +1,4 @@
-# Customer-Shopping-Behavior-Analytics-
+# Customer-Shopping-Behavior-Analysis
 🛒 Customer Shopping Behavior Analysis
 
 Python • PostgreSQL • Power BI
